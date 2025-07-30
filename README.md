@@ -1,4 +1,4 @@
-## 👋 你好呀，我是 T-X-1013
+## 👋 您好，欢迎来到我的主页，我是程序员奥德奈瑞
 
 我是一名 98 年出生的程序员 + 编程学习者 + 技术分享者 🎓  
 
@@ -6,8 +6,8 @@
 
 ### 🧑‍🎓 教育背景
 
-- 🎓 本科毕业于 **哈尔滨商业大学**，专业：数据科学与大数据技术  
-- 📚 研究生就读于 **东华大学**，软件工程（学硕）在读，27 届毕业生  
+- 🎓 本科毕业于 **哈尔滨商业大学**，所学专业为**数据科学与大数据技术**
+- 📚 研究生就读于 **东华大学**，27 届毕业生，所学专业为**软件工程（学硕）**
 
 ---
 
@@ -45,5 +45,8 @@
 
 ### 📈 GitHub 数据统计
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T-X-1013&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-X-1013&layout=compact&theme=radical)
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=T-X-1013&show_icons=true&theme=radical&hide=contribs&rank_icon=github&include_all_commits=true&custom_title=今年汇总✨" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-X-1013&layout=compact&theme=radical&langs_count=8&custom_title=语言占比✨" />
+</div>
+
