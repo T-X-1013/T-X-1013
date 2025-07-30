@@ -45,7 +45,7 @@
 
 ### 📈 今年数据统计
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=T-X-1013&hide_title=true&hide_border=true&show_icons=true&line_height=21&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=T-X-1013&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=30,e96443,904e95,6495ED,00C9FF,92FE9D&theme=graywhite" />
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-X-1013&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 
