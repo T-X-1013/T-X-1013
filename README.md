@@ -1,21 +1,49 @@
-## 👋 Hi，我是 T-X-1013！
+## 👋 你好呀，我是 T-X-1013
 
-🎓 学习方向：Java 后端、JUC、计算机基础  
-📚 正在学习：Spring Boot、并发编程、MySQL、Redis  
-🔨 项目经验：[个人博客系统](https://github.com/xxx)、[并发编程小册](https://github.com/xxx)  
-🎯 目标：拿下大厂 Offer！
+我是一名 98 年出生的程序员 + 编程学习者 + 技术分享者 🎓  
 
 ---
 
-### 🧰 技术栈 & 工具
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### 🧑‍🎓 教育背景
+
+- 🎓 本科毕业于 **哈尔滨商业大学**，专业：数据科学与大数据技术  
+- 📚 研究生就读于 **东华大学**，软件工程（学硕）在读，27 届毕业生  
 
 ---
 
-### 📈 GitHub 活动统计
+### 💻 专业技能
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T-X-1013&show_icons=true&theme=radical)
+- 熟悉 Java 后端开发，掌握 JUC、JVM、Java 并发编程、Spring Boot 等  
+- 🔗 我的并发编程学习仓库：[JUC 并发编程笔记](https://github.com/T-X-1013/JUC)
 
+---
+
+### 🚀 项目经验
+
+| 项目名 | 简介 | 链接 |
+|--------|------|------|
+| JUC 并发编程 | 系统整理了 Java 并发相关知识，包括线程、锁机制、线程池等内容 | [查看仓库](https://github.com/T-X-1013/JUC) |
+| XXX 项目 | 示例项目，内容待补充 | [查看仓库](https://github.com/T-X-1013/project-demo) |
+
+---
+
+### 🎯 兴趣爱好
+
+- 🏃‍♂️ 跑步 & 健身  
+- 📚 技术写作与整理知识笔记  
+- 🎮 偶尔游戏、动漫和刷剧  
+- 💡 喜欢尝试 AI 工具、效率工具  
+
+---
+
+### 📬 关注我：公众号「零幺零贰」
+
+扫码即可关注，获取更多技术笔记与资源 👇  
+[![零幺零贰](https://your-image-link.com/qrcode.png)](https://your-image-link.com/qrcode.png)
+
+---
+
+### 📈 GitHub 数据统计
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T-X-1013&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-X-1013&layout=compact&theme=radical)
