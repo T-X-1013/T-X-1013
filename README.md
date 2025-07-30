@@ -43,10 +43,7 @@
 
 ---
 
-### 📈 GitHub 数据统计
+### 📈 今年数据统计
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=T-X-1013&show_icons=true&theme=radical&hide=contribs&rank_icon=github&include_all_commits=true&custom_title=今年汇总✨" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-X-1013&layout=compact&theme=radical&langs_count=8&custom_title=语言占比✨" />
-</div>
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=liyupi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyupi&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
