@@ -30,8 +30,9 @@
 
 | 项目名 | 简介 | 链接 |
 |--------|------|------|
-| JUC 并发编程 | 系统整理了 Java 并发相关知识，包括线程、锁机制、线程池等内容 | [查看仓库](https://github.com/T-X-1013/JUC) |
-| XXX 项目 | 示例项目，内容待补充 | [查看仓库](https://github.com/T-X-1013/公众号-零幺零贰.jpg) |
+| AI-Agent | 基于 **Spring Boot 3** + **Spring AI** + **RAG** + **Tool Calling** + **MCP** ，建立了一个恋爱大师智能体，为用户提供情感指导服务。支持多轮对话、记忆持久化、RAG 知识库检索等能力，并且基于 ReAct 模式，能够自主思考并调用工具来完成复杂任务 | [查看仓库](https://github.com/T-X-1013/ai-agent) |
+| 自然语言处理项目合集 | 自然语言处理的相关任务，例如：命名实体识别、实体关系抽取、火车票识别、新闻文本分类 | 🔹 [命名实体识别](https://github.com/T-X-1013/named-entity-recognition) <br> 🔹 [实体关系抽取](https://github.com/T-X-1013/entity-relationship-extraction) <br> 🔹 [火车票识别](https://github.com/T-X-1013/train-ticket-recognition) <br> 🔹 [新闻文本分类](https://github.com/T-X-1013/news-text-classification) |
+
 
 ---
 
