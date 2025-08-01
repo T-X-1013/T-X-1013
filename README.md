@@ -31,6 +31,7 @@
 | 项目名 | 简介 | 链接 |
 |--------|------|------|
 | AI-Agent | 基于 **Spring Boot 3** + **Spring AI** + RAG + Tool Calling + MCP，<br>建立恋爱大师智能体，支持多轮对话、记忆持久化、知识库检索等，<br>能够基于 ReAct 模式实现自主思考和工具调用 | - [查看仓库](https://github.com/T-X-1013/ai-agent) |
+| AI代码生成平台 | 基于 **Spring Boot 3** + **LangChain4j** + Vue3，<br>开发AI代码生成平台，目前还未完全做完... | - [查看仓库](https://github.com/T-X-1013/tao-ai-code-platform) |
 | 点赞系统 | 基于 Spring Boot 3 + Java 21  + TiDB + Redis + Pulsar，<br>高并发点赞系统 | - [查看仓库](https://github.com/T-X-1013/tao-like) |
 | 自然语言处理项目合集 | 涵盖：命名实体识别、实体关系抽取、火车票识别、新闻文本分类等任务 | - [命名实体识别](https://github.com/T-X-1013/named-entity-recognition)<br>- [实体关系抽取](https://github.com/T-X-1013/entity-relationship-extraction)<br>- [火车票识别](https://github.com/T-X-1013/train-ticket-recognition)<br>- [新闻文本分类](https://github.com/T-X-1013/news-text-classification) |
 
