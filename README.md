@@ -46,7 +46,8 @@
 - 🎧 听音乐，基本上热衷于听周董+纯音乐
 - 🏃‍♂️ 跑步
 - 👑 宝可梦训练大师 ~
-![14b9a8fe1c2a2618ae08a1bd769788f0](https://github.com/user-attachments/assets/4de9b919-ce30-41bb-9566-b8a35881f29e)
+  ![df22c09e204ada9d403078a9ff04677b](https://github.com/user-attachments/assets/012444a0-dacf-4406-9e2b-c59dae5b4ef1)
+
 
 ---
 
