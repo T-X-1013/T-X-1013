@@ -45,6 +45,8 @@
 - 📸 摄影，期待未来有时间可以展示个人作品集
 - 🎧 听音乐，基本上热衷于听周董+纯音乐
 - 🏃‍♂️ 跑步
+- 👑 宝可梦训练大师 ~
+![14b9a8fe1c2a2618ae08a1bd769788f0](https://github.com/user-attachments/assets/4de9b919-ce30-41bb-9566-b8a35881f29e)
 
 ---
 
